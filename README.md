@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/salah-eddine-ramdani-156080284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salah-eddine-ramdani-865843197/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19371906/ramdani-salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19371906/ramdani-salah" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/stef.salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/stef.salah" height="30" width="40" /></a>
+<a href="https://web.facebook.com/stef.salah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/stef.salah" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0iugpssivh3kwzfgs9gk3q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0iugpssivh3kwzfgs9gk3q" height="30" width="40" /></a>
 </p>
 
